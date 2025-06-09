@@ -1,5 +1,5 @@
 function mettime() {
-	var StartTime = new Date('2019/10/19 00:00:00');
+	var StartTime = new Date('2021/07/02 08:37:45');
 	var NowTime = new Date();
 	var t = NowTime.getTime() - StartTime.getTime();
 	var d=0;
